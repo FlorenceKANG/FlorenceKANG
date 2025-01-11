@@ -5,9 +5,9 @@
 
 ## 👀 A propos de moi
 
-![StatsGit](https://github-readme-stats.vercel.app/api?username=FlorenceKANG&show_icons=true&theme=buefy&show=stars,issues&rank_icon=github)
+![StatsGit](https://github-readme-stats.vercel.app/api?username=FlorenceKANG&show_icons=true&theme=buefy&hide=stars,issues&rank_icon=github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorenceKANG)](https://github.com/FlorenceKANG/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorenceKANG&theme=buefy)](https://github.com/FlorenceKANG/github-readme-stats)
 
 ## 💻 Mes projets
 
@@ -16,9 +16,9 @@
 - Mini Projet : O'coffee
 - Mini Projet : O'pokedex
 
-[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=FlorenceKANG&repo=FlorenceKANG)](https://github.com/FlorenceKANG/FlorenceKANG)
-[![CV Card](https://github-readme-stats.vercel.app/api/pin/?username=FlorenceKANG&repo=Projet-CV)](https://github.com/FlorenceKANG/Projet-CV)
-[![Todoist Card](https://github-readme-stats.vercel.app/api/pin/?username=FlorenceKANG&repo=Projet-Todoist)](https://github.com/FlorenceKANG/Projet-Todoist)
+[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=FlorenceKANG&repo=FlorenceKANG&theme=buefy)](https://github.com/FlorenceKANG/FlorenceKANG)
+[![CV Card](https://github-readme-stats.vercel.app/api/pin/?username=FlorenceKANG&repo=Projet-CV&theme=buefy)](https://github.com/FlorenceKANG/Projet-CV)
+[![Todoist Card](https://github-readme-stats.vercel.app/api/pin/?username=FlorenceKANG&repo=Projet-Todoist&theme=buefy)](https://github.com/FlorenceKANG/Projet-Todoist)
 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
