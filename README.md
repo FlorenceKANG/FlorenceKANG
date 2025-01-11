@@ -11,12 +11,14 @@
 
 ## 💻 Mes projets
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlorenceKANG&repo=Projet-CV)]([https://github.com/FlorenceKANG/Projet-CV](https://florencekang.github.io/Projet-CV/))
 - [Mon CV](https://florencekang.github.io/Projet-CV/)
-
 - Site statique & responsive : [Heros League](https://effective-adventure-2knwolq.pages.github.io/)
 - Mini Projet : O'coffee
 - Mini Projet : O'pokedex
+
+[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=FlorenceKANG&repo=FlorenceKANG)](https://github.com/FlorenceKANG/FlorenceKANG)
+[![CV Card](https://github-readme-stats.vercel.app/api/pin/?username=FlorenceKANG&repo=Projet-CV)](https://github.com/FlorenceKANG/Projet-CV)
+[![Todoist Card](https://github-readme-stats.vercel.app/api/pin/?username=FlorenceKANG&repo=Projet-Todoist)](https://github.com/FlorenceKANG/Projet-Todoist)
 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
