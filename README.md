@@ -16,10 +16,6 @@
 - Mini Projet : O'coffee
 - Mini Projet : O'pokedex
 
-[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=FlorenceKANG&repo=FlorenceKANG&theme=buefy)](https://github.com/FlorenceKANG/FlorenceKANG)
-[![CV Card](https://github-readme-stats.vercel.app/api/pin/?username=FlorenceKANG&repo=Projet-CV&theme=buefy)](https://github.com/FlorenceKANG/Projet-CV)
-[![Todoist Card](https://github-readme-stats.vercel.app/api/pin/?username=FlorenceKANG&repo=Projet-Todoist&theme=buefy)](https://github.com/FlorenceKANG/Projet-Todoist)
-
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
