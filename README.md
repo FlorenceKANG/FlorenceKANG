@@ -35,6 +35,8 @@
     - Base de données : PostgreSQL
     - Composants d'accès aux données : Sequelize
 
+- Autres :
+    - [Exercice Figma](https://www.figma.com/proto/2Hvx2RkXBjVbmsssTEpIMV?node-id=0-1&t=ToLPt7fo4NvCHME5-6)
 
 ## 🧰 Tech
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
