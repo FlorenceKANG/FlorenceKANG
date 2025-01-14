@@ -7,8 +7,6 @@
 
 ![StatsGit](https://github-readme-stats.vercel.app/api?username=FlorenceKANG&show_icons=true&theme=buefy&hide=stars,issues&rank_icon=github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorenceKANG&theme=buefy)](https://github.com/FlorenceKANG/github-readme-stats)
-
 ## 💻 Mes projets
 
 - [Mon CV](https://florencekang.github.io/Projet-CV/)
