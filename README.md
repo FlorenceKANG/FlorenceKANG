@@ -2,6 +2,11 @@
 
 # 👋 Hi, I’m @FlorenceKANG
 
+📖 Actuellement, je suis en formation intensive de **Développeur Web Fullstack** chez O'clock ! 
+
+🔍 A la recherche d'un stage de 2 mois à partir du mois de Mars !
+
+🏃‍♀️ Je suis ouverte à toutes propositions professionnelles !
 
 ## 👀 A propos de moi
 
@@ -9,11 +14,12 @@
 
 ## 💻 Mes projets
 
-- [Mon CV](https://florencekang.github.io/Projet-CV/)
+- Site statique & responsive : [Mon CV](https://florencekang.github.io/Projet-CV/)
 - Site statique & responsive : [Heros League](https://effective-adventure-2knwolq.pages.github.io/)
 - Mini Projet : O'coffee
 - Mini Projet : O'pokedex
 
+## 🧰 Tech
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
