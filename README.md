@@ -21,8 +21,8 @@
     - Durée : 4 jours
     - En autonomie
     - **Architecture MVC** (Models, Views et Controllers)
-    - Front-end : HTML / CSS
-    - Back-end : Node.js (Express et EJS)
+    - Front-end : HTML / CSS / JavaScript
+    - Back-end : Node.js (Express.js et moteur de rendu côté serveur EJS)
     - Base de données relationnelle : PostgreSQL
     - Composants d'accès aux données : DataMapper
   
@@ -31,7 +31,7 @@
     - En autonomie
     - Architecture **API** (Application Programming Interface) + **SPA** (Single Page Application)
     - Front-end : HTML / CSS / Vanilla JS
-    - Back-end : Node.js (Express)
+    - Back-end : Node.js (Express.js)
     - Base de données : PostgreSQL
     - Composants d'accès aux données : Sequelize
 
