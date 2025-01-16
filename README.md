@@ -11,6 +11,7 @@
 ## 👀 A propos de moi
 
 ![StatsGit](https://github-readme-stats.vercel.app/api?username=FlorenceKANG&show_icons=true&theme=buefy&hide=stars,issues&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorenceKANG&layout=compact)
 
 ## 💻 Mes projets
 
