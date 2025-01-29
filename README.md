@@ -19,6 +19,8 @@
 - Site statique & responsive : [Heros League](https://effective-adventure-2knwolq.pages.github.io/)
 
 - Mini Projet : O'coffee
+<img src="https://github.com/user-attachments/assets/55fabe87-c8c9-4e54-9cf4-573ecfecb8fc" alt="demo-ocoffee" width=400>
+
     - Durée : 4 jours
     - En autonomie
     - **Architecture MVC** (Models, Views et Controllers)
@@ -26,8 +28,11 @@
     - Back-end : Node.js (Express.js et moteur de rendu côté serveur EJS)
     - Base de données relationnelle : PostgreSQL
     - Composants d'accès aux données : DataMapper
-  
+
+
 - Mini Projet : O'pokedex
+<img src="https://github.com/user-attachments/assets/9ed9b4b3-18d1-4d89-b1fb-9630cdf4c74a" alt="demo-opokedex" width=400>
+
     - Durée : 4 jours
     - En autonomie
     - Architecture **API** (Application Programming Interface) + **SPA** (Single Page Application)
