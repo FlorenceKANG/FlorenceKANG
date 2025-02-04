@@ -44,8 +44,6 @@
     - Composants d'accès aux données : Sequelize
  
 - Projet Apothéose : La Pince (en cours ...)
-<img src="" alt="demo à venir">
-
     - Sujet : Réaliser une application web de gestion de finances personnelles
     - Durée : 1 mois
     - En équipe
