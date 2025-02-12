@@ -92,7 +92,7 @@
 
 - 📱 06.49.95.68.90
 - 📧 fkang@outlook.fr
-- [Linkedin](https://www.linkedin.com/in/florence-kang-425751194)
+- [Linkedin](https://www.linkedin.com/in/florencekang)
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
