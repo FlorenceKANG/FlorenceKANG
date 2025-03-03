@@ -15,10 +15,9 @@
 
 ## 💻 Mes projets
 
-- Site statique & responsive : [Mon CV](https://florencekang.github.io/Projet-CV/)
-- Site statique & responsive : [Heros League](https://effective-adventure-2knwolq.pages.github.io/)
+- 🖥️ Sites statiques & responsives : [Mon CV](https://florencekang.github.io/Projet-CV/) | [Heros League](https://effective-adventure-2knwolq.pages.github.io/)
 
-- Mini Projet : O'coffee
+- ☕️ Mini Projet : **O'coffee**
 <img src="https://github.com/user-attachments/assets/55fabe87-c8c9-4e54-9cf4-573ecfecb8fc" alt="demo-ocoffee" width=400>
 
     - Sujet : Réaliser un site vitrine pour une boutique de café
@@ -31,7 +30,7 @@
     - Composants d'accès aux données : DataMapper
 
 
-- Mini Projet : O'pokedex
+- ⚾︎ Mini Projet : **O'pokedex**
 <img src="https://github.com/user-attachments/assets/9ed9b4b3-18d1-4d89-b1fb-9630cdf4c74a" alt="demo-opokedex" width=400>
 
     - Sujet : Réaliser un site d'encyclopédie de pokémon
@@ -43,12 +42,12 @@
     - Base de données : PostgreSQL
     - Composants d'accès aux données : Sequelize
  
-- Projet Apothéose : La Pince (en cours ...)
+- 🤑 Projet de fin de formation : **La Pince**
     - Sujet : Réaliser une application web de gestion de finances personnelles
     - Durée : 1 mois
-    - En équipe
+    - En équipe (méthodologie agile)
     - Architecture API (Application Programming Interface) + SPA (Single Page Application)
-    - Front-end : React
+    - Front-end : React / Vite / Lirairie CSS (Bulma)
     - Back-end : Node.js (Express)
     - Base de données : PostgreSQL
     - Composants d'accès aux données : Sequelize
