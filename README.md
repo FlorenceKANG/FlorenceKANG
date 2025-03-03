@@ -43,6 +43,8 @@
     - Composants d'accès aux données : Sequelize
  
 - 🤑 Projet de fin de formation : **La Pince**
+<img src="https://github.com/user-attachments/assets/9ca8078f-ffc2-44c9-8a4e-e135cb0b7f64" alt="demo-la-pince" width=400>
+  
     - Sujet : Réaliser une application web de gestion de finances personnelles
     - Durée : 1 mois
     - En équipe (méthodologie agile)
@@ -51,10 +53,11 @@
     - Back-end : Node.js (Express)
     - Base de données : PostgreSQL
     - Composants d'accès aux données : Sequelize
-    - [Maquettes Figma](https://www.figma.com/proto/QpZpOhN2iPKOyp7xguGM8P/LaPince?page-id=0%3A1&node-id=4-594&p=f&viewport=33%2C230%2C0.12&t=10RdcfMJcJELzdh1-1&scaling=min-zoom&content-scaling=fixed)
+ 
 
 - Autres :
     - [Exercice Figma](https://www.figma.com/proto/2Hvx2RkXBjVbmsssTEpIMV?node-id=0-1&t=ToLPt7fo4NvCHME5-6)
+    - [Maquettes La Pince - Figma](https://www.figma.com/proto/QpZpOhN2iPKOyp7xguGM8P/LaPince?page-id=0%3A1&node-id=4-594&p=f&viewport=33%2C230%2C0.12&t=10RdcfMJcJELzdh1-1&scaling=min-zoom&content-scaling=fixed)
 
 ## 🧰 Tech
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
