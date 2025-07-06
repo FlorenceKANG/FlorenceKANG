@@ -17,31 +17,22 @@
 
 - 🖥️ Sites statiques & responsives : [Mon CV](https://florencekang.github.io/Projet-CV/) | [Heros League](https://effective-adventure-2knwolq.pages.github.io/)
 
-- ☕️ Mini Projet : **O'coffee**
-<img src="https://github.com/user-attachments/assets/55fabe87-c8c9-4e54-9cf4-573ecfecb8fc" alt="demo-ocoffee" width=400>
-
-    - Sujet : Réaliser un site vitrine pour une boutique de café
-    - Durée : 4 jours
-    - En autonomie
-    - Architecture MVC(Models, Views et Controllers)
-    - Front-end : HTML / CSS / JavaScript
-    - Back-end : Node.js (Express.js et moteur de rendu côté serveur EJS)
-    - Base de données relationnelle : PostgreSQL
-    - Composants d'accès aux données : DataMapper
+- Mini projets : 
 
 
-- ⚾︎ Mini Projet : **O'pokedex**
-<img src="https://github.com/user-attachments/assets/9ed9b4b3-18d1-4d89-b1fb-9630cdf4c74a" alt="demo-opokedex" width=400>
+| Mini Projet | ☕️ O'coffee | ⚾︎ O'pokedex |
+|:-------------:|:-------------:|:--------------:|
+| Sujet | Réaliser un site vitrine pour une boutique de café | Réaliser un site d'encyclopédie de pokémon |
+| Durée | 4 jours | 4 jours |
+| Travail | En autonomie | En autonomie |
+| Architecture | MVC(Models, Views et Controllers) | API (Application Programming Interface) + SPA (Single Page Application) |
+| Front-end | HTML / CSS / JavaScript | HTML / CSS / Vanilla JS |
+| Back-end | Node.js (Express.js et moteur de rendu côté serveur EJS) | Node.js (Express.js) |
+| BDD relationnelle | PostgreSQL | PostgreSQL |
+| Composant d'accès aux données | DataMapper | Sequelize |
+| Démo | <img src="https://github.com/user-attachments/assets/55fabe87-c8c9-4e54-9cf4-573ecfecb8fc" alt="demo-ocoffee" width=400> | <img src="https://github.com/user-attachments/assets/9ed9b4b3-18d1-4d89-b1fb-9630cdf4c74a" alt="demo-opokedex" width=400> |
 
-    - Sujet : Réaliser un site d'encyclopédie de pokémon
-    - Durée : 4 jours
-    - En autonomie
-    - Architecture API (Application Programming Interface) + SPA (Single Page Application)
-    - Front-end : HTML / CSS / Vanilla JS
-    - Back-end : Node.js (Express.js)
-    - Base de données : PostgreSQL
-    - Composants d'accès aux données : Sequelize
- 
+
 - 🤑 Projet de fin de formation : **La Pince**
 <img src="https://github.com/user-attachments/assets/9ca8078f-ffc2-44c9-8a4e-e135cb0b7f64" alt="demo-la-pince" width=400>
   
