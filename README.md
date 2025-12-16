@@ -2,9 +2,9 @@
 
 # 👋 Hi, I’m @FlorenceKANG
 
-📖 Actuellement, je suis en formation intensive de **Développeur Web Fullstack** chez O'clock ! 
+📖 J'ai terminé la formation intensive de **Développeuse Web Fullstack** chez O'clock, au terme de laquelle j'ai obtenu le **titre professionnel DWWM** (Développeur Web et Web Mobile) ! 
 
-🔍 A la recherche d'un stage de 2 mois à partir du mois de Mars !
+🔍 J'ai réailsé mon stage de 6 mois chez **Qualiextra** en tant que Développeuse Front-End, puis j'ai continué cette collaboration en tant que freelance. A l'issue de ce contrat, je suis aujourd'hui **à la recherche d'une nouvelle opportunité professionnelle**.
 
 🏃‍♀️ Je suis ouverte à toutes propositions professionnelles !
 
@@ -48,7 +48,7 @@
 
 - Autres :
     - [Exercice Figma](https://www.figma.com/proto/2Hvx2RkXBjVbmsssTEpIMV?node-id=0-1&t=ToLPt7fo4NvCHME5-6)
-    - [Maquettes La Pince - Figma](https://www.figma.com/design/QpZpOhN2iPKOyp7xguGM8P/LaPince?node-id=200-2&p=f&t=QxVwUKe3kHU1ivqQ-0)
+    - [Maquettes La Pince - Figma (refonte)](https://www.figma.com/design/QpZpOhN2iPKOyp7xguGM8P/LaPince?node-id=200-2&p=f&t=QxVwUKe3kHU1ivqQ-0)
 
 ## 🧰 Tech
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
