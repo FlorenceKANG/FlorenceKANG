@@ -19,7 +19,6 @@
 
 - Mini projets : 
 
-
 | Mini Projet | ☕️ [O'coffee](https://projet-ocoffee-f855.onrender.com) | ⚾︎ O'pokedex |
 |:-------------:|:-------------:|:--------------:|
 | Sujet | Réaliser un site vitrine pour une boutique de café | Réaliser un site d'encyclopédie de pokémon |
@@ -33,18 +32,19 @@
 | Démo | <img src="https://github.com/user-attachments/assets/55fabe87-c8c9-4e54-9cf4-573ecfecb8fc" alt="demo-ocoffee" width=400> | <img src="https://github.com/user-attachments/assets/9ed9b4b3-18d1-4d89-b1fb-9630cdf4c74a" alt="demo-opokedex" width=400> |
 
 
-- 🤑 Projet de fin de formation : **La Pince**
-<img src="https://github.com/user-attachments/assets/9ca8078f-ffc2-44c9-8a4e-e135cb0b7f64" alt="demo-la-pince" width=400>
-  
-    - Sujet : Réaliser une application web de gestion de finances personnelles
-    - Durée : 1 mois
-    - En équipe (méthodologie agile)
-    - Architecture API (Application Programming Interface) + SPA (Single Page Application)
-    - Front-end : React / Vite / Lirairie CSS (Bulma)
-    - Back-end : Node.js (Express)
-    - Base de données : PostgreSQL
-    - Composants d'accès aux données : Sequelize
- 
+- 🤑 Projet de fin de formation :
+
+| Projet | 💰La Pince |
+|:-------------:|:-------------:|
+| Sujet | Réaliser une application web de gestion de finances personnelles |
+| Durée | 1 mois |
+| Travail | En équipe (méthodologie agile) |
+| Architecture | API (Application Programming Interface) + SPA (Single Page Application) |
+| Front-end | React / Vite / Lirairie CSS (Bulma) |
+| Back-end | Node.js (Express) |
+| BDD relationnelle | PostgreSQL |
+| Composant d'accès aux données | Sequelize |
+| Démo | <img src="https://github.com/user-attachments/assets/9ca8078f-ffc2-44c9-8a4e-e135cb0b7f64" alt="demo-la-pince" width=400> |
 
 - Autres :
     - [Exercice Figma](https://www.figma.com/proto/2Hvx2RkXBjVbmsssTEpIMV?node-id=0-1&t=ToLPt7fo4NvCHME5-6)
