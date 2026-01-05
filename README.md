@@ -4,7 +4,7 @@
 
 📖 J'ai terminé la formation intensive de **Développeuse Web Fullstack** chez O'clock, au terme de laquelle j'ai obtenu le **titre professionnel DWWM** (Développeur Web et Web Mobile) ! 
 
-🔍 J'ai réailsé mon stage de 6 mois chez **Qualiextra** en tant que Développeuse Front-End, puis j'ai continué cette collaboration en tant que freelance. A l'issue de ce contrat, je suis aujourd'hui **à la recherche d'une nouvelle opportunité professionnelle**.
+🔍 J'ai réalisé mon stage de 6 mois chez **Qualiextra** en tant que Développeuse Front-End, puis j'ai continué cette collaboration en tant que freelance. A l'issue de ce contrat, je suis aujourd'hui **à la recherche d'une nouvelle opportunité professionnelle**.
 
 🏃‍♀️ Je suis ouverte à toutes propositions professionnelles !
 
