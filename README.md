@@ -8,16 +8,23 @@
 
 🏃‍♀️ Je suis ouverte à toutes propositions professionnelles !
 
+
+
 ## 👀 A propos de moi
 
 ![StatsGit](https://github-readme-stats.vercel.app/api?username=FlorenceKANG&show_icons=true&theme=buefy&hide=stars,issues&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorenceKANG&layout=compact)
 
+
+
 ## 💻 Mes projets
 
-- 🖥️ Sites statiques & responsives : [Mon CV](https://florencekang.github.io/Projet-CV/) | [Heros League](https://effective-adventure-2knwolq.pages.github.io/)
+### 1. Sites statiques & responsives
 
-- Mini projets : 
+- [Mon CV](https://florencekang.github.io/Projet-CV/)
+- [Heros League](https://effective-adventure-2knwolq.pages.github.io/)
+
+### 2. Mini projets : 
 
 | Mini Projet | ☕️ [O'coffee](https://projet-ocoffee-f855.onrender.com) | ⚾︎ O'pokedex |
 |:-------------:|:-------------:|:--------------:|
@@ -31,24 +38,26 @@
 | Composant d'accès aux données | DataMapper | Sequelize |
 | Démo | <img src="https://github.com/user-attachments/assets/55fabe87-c8c9-4e54-9cf4-573ecfecb8fc" alt="demo-ocoffee" width=400> | <img src="https://github.com/user-attachments/assets/9ed9b4b3-18d1-4d89-b1fb-9630cdf4c74a" alt="demo-opokedex" width=400> |
 
+### 3. Projet La Pince :
 
-- 🤑 Projet de fin de formation :
+|  | Fin de formation | Repris |
+|:-------------:|:-------------:|:-------------:|
+| Sujet | Réaliser une application web de gestion de finances personnelles | Réaliser une application web de gestion de finances personnelles |
+| Durée | 1 mois | ♾️ |
+| Travail | En équipe (méthodologie agile) | En autonomie |
+| Architecture | API (Application Programming Interface) + SPA (Single Page Application) | API (Application Programming Interface) + SPA (Single Page Application) |
+| Front-end | React / Vite / Lirairie CSS (Bulma) |React / Vite / TailwindCSS / ChakraUI |
+| Back-end | Node.js (Express) | Node.js (Express) | 
+| BDD relationnelle | PostgreSQL | PostgreSQL |
+| Composant d'accès aux données | Sequelize |Sequelize |
+| Démo | <img src="https://github.com/user-attachments/assets/9ca8078f-ffc2-44c9-8a4e-e135cb0b7f64" alt="demo-la-pince" width=400> | |
 
-| Projet | 💰La Pince |
-|:-------------:|:-------------:|
-| Sujet | Réaliser une application web de gestion de finances personnelles |
-| Durée | 1 mois |
-| Travail | En équipe (méthodologie agile) |
-| Architecture | API (Application Programming Interface) + SPA (Single Page Application) |
-| Front-end | React / Vite / Lirairie CSS (Bulma) |
-| Back-end | Node.js (Express) |
-| BDD relationnelle | PostgreSQL |
-| Composant d'accès aux données | Sequelize |
-| Démo | <img src="https://github.com/user-attachments/assets/9ca8078f-ffc2-44c9-8a4e-e135cb0b7f64" alt="demo-la-pince" width=400> |
+### 4. Autres :
 
-- Autres :
-    - [Exercice Figma](https://www.figma.com/proto/2Hvx2RkXBjVbmsssTEpIMV?node-id=0-1&t=ToLPt7fo4NvCHME5-6)
-    - [Maquettes La Pince - Figma (refonte)](https://www.figma.com/design/QpZpOhN2iPKOyp7xguGM8P/LaPince?node-id=200-2&p=f&t=QxVwUKe3kHU1ivqQ-0)
+- [Exercice Figma](https://www.figma.com/proto/2Hvx2RkXBjVbmsssTEpIMV?node-id=0-1&t=ToLPt7fo4NvCHME5-6)
+- [Maquettes La Pince - Figma (refonte)](https://www.figma.com/design/QpZpOhN2iPKOyp7xguGM8P/LaPince?node-id=200-2&p=f&t=QxVwUKe3kHU1ivqQ-0)
+
+
 
 ## 🧰 Tech
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -84,6 +93,8 @@
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
 
 ## 📫 Me contacter
 
