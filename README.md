@@ -50,7 +50,7 @@
 | Back-end | Node.js (Express) | Node.js (Express) | 
 | BDD relationnelle | PostgreSQL | PostgreSQL |
 | Composant d'accès aux données | Sequelize |Sequelize |
-| Démo | <img src="https://github.com/user-attachments/assets/9ca8078f-ffc2-44c9-8a4e-e135cb0b7f64" alt="demo-la-pince" width=400> | |
+| Démo | <img src="https://github.com/user-attachments/assets/9ca8078f-ffc2-44c9-8a4e-e135cb0b7f64" alt="demo-la-pince" width=400> | <img src="https://github.com/user-attachments/assets/542b85fb-6b98-41f5-93e8-a4055487c0dd" alt="demo-la-pince-repris" width=400> |
 
 ### 4. Autres :
 
