@@ -9,36 +9,22 @@
 🏃‍♀️ Je suis ouverte à toutes propositions professionnelles !
 
 
-
 ## 👀 A propos de moi
 
 ![StatsGit](https://github-readme-stats.vercel.app/api?username=FlorenceKANG&show_icons=true&theme=buefy&hide=stars,issues&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorenceKANG&layout=compact)
 
 
-
 ## 💻 Mes projets
 
-### 1. Sites statiques & responsives
+### 1. Expériences Pro :
 
-- [Mon CV](https://florencekang.github.io/Projet-CV/)
-- [Heros League](https://effective-adventure-2knwolq.pages.github.io/)
+- Application Qualiextra (Next.js / React Native) :
+    - [Web](https://qualiextra.com)
+    - [iOS](https://apps.apple.com/fr/app/qualiextra/id6742256797)
+    - [Android](https://play.google.com/store/apps/details?id=com.qualiextra.production&pcampaignid=web_share) 
 
-### 2. Mini projets : 
-
-| Mini Projet | ☕️ [O'coffee](https://projet-ocoffee-f855.onrender.com) | ⚾︎ O'pokedex |
-|:-------------:|:-------------:|:--------------:|
-| Sujet | Réaliser un site vitrine pour une boutique de café | Réaliser un site d'encyclopédie de pokémon |
-| Durée | 4 jours | 4 jours |
-| Travail | En autonomie | En autonomie |
-| Architecture | MVC(Models, Views et Controllers) | API (Application Programming Interface) + SPA (Single Page Application) |
-| Front-end | HTML / CSS / JavaScript | HTML / CSS / Vanilla JS |
-| Back-end | Node.js (Express.js et moteur de rendu côté serveur EJS) | Node.js (Express.js) |
-| BDD relationnelle | PostgreSQL | PostgreSQL |
-| Composant d'accès aux données | DataMapper | Sequelize |
-| Démo | <img src="https://github.com/user-attachments/assets/55fabe87-c8c9-4e54-9cf4-573ecfecb8fc" alt="demo-ocoffee" width=400> | <img src="https://github.com/user-attachments/assets/9ed9b4b3-18d1-4d89-b1fb-9630cdf4c74a" alt="demo-opokedex" width=400> |
-
-### 3. Projet La Pince :
+### 2. Projet La Pince :
 
 |  | Fin de formation | Repris |
 |:-------------:|:-------------:|:-------------:|
@@ -52,11 +38,29 @@
 | Composant d'accès aux données | Sequelize |Sequelize |
 | Démo | <img src="https://github.com/user-attachments/assets/9ca8078f-ffc2-44c9-8a4e-e135cb0b7f64" alt="demo-la-pince" width=400> | <img src="https://github.com/user-attachments/assets/542b85fb-6b98-41f5-93e8-a4055487c0dd" alt="demo-la-pince-repris" width=400> |
 
-### 4. Autres :
+### 3. Mini projets : 
+
+| Mini Projet | ☕️ [O'coffee](https://projet-ocoffee-f855.onrender.com) | ⚾︎ O'pokedex |
+|:-------------:|:-------------:|:--------------:|
+| Sujet | Réaliser un site vitrine pour une boutique de café | Réaliser un site d'encyclopédie de pokémon |
+| Durée | 4 jours | 4 jours |
+| Travail | En autonomie | En autonomie |
+| Architecture | MVC(Models, Views et Controllers) | API (Application Programming Interface) + SPA (Single Page Application) |
+| Front-end | HTML / CSS / JavaScript | HTML / CSS / Vanilla JS |
+| Back-end | Node.js (Express.js et moteur de rendu côté serveur EJS) | Node.js (Express.js) |
+| BDD relationnelle | PostgreSQL | PostgreSQL |
+| Composant d'accès aux données | DataMapper | Sequelize |
+| Démo | <img src="https://github.com/user-attachments/assets/55fabe87-c8c9-4e54-9cf4-573ecfecb8fc" alt="demo-ocoffee" width=400> | <img src="https://github.com/user-attachments/assets/9ed9b4b3-18d1-4d89-b1fb-9630cdf4c74a" alt="demo-opokedex" width=400> |
+
+### 4. Sites statiques & responsives
+
+- [Mon CV](https://florencekang.github.io/Projet-CV/)
+- [Heros League](https://effective-adventure-2knwolq.pages.github.io/)
+
+### 5. Autres :
 
 - [Exercice Figma](https://www.figma.com/proto/2Hvx2RkXBjVbmsssTEpIMV?node-id=0-1&t=ToLPt7fo4NvCHME5-6)
 - [Maquettes La Pince - Figma (refonte)](https://www.figma.com/design/QpZpOhN2iPKOyp7xguGM8P/LaPince?node-id=200-2&p=f&t=QxVwUKe3kHU1ivqQ-0)
-
 
 
 ## 🧰 Tech
@@ -93,7 +97,6 @@
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 
 
 ## 📫 Me contacter
